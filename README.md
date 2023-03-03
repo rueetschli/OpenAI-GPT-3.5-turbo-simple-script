@@ -23,3 +23,9 @@ Setze dazu deine IP-Adresse in der Zeile 3 ein. Wähle ein Benutzername und ein 
 ------------
 Dies soll ein einfaches Script bleiben, welches ohne Framework einfach mit Copy-Paste von allen Menschen genutzt werden kann.
 Damit sollen alle in der Lage sein, mithilfe ihres eigenen API-Key einen kostengünstigen Chatbot privat zu betreiben.
+
+
+
+#Screenshot
+------------
+![image](https://user-images.githubusercontent.com/8299018/222672442-035ac523-6d65-41b5-a843-1527637cb2bc.png)
