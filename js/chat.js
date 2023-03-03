@@ -1,6 +1,6 @@
 
 /*
-//定时器*/
+//Timer*/
 var contextarray = [];
 $(document).ready(function () {
     
