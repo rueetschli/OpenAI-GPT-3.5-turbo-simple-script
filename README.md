@@ -1,7 +1,7 @@
 #Script für gpt-3.5-turbo Modell 
 ------------
 via API OpenAI.com
-Ein Chat, aufbaudend auf der API für chatgpt von chat.openai.com
+Ein Chat, aufbauend auf der API für chatgpt von chat.openai.com
 Sehr einfach gehalten.
 PHP | CSS | html | Javascript
 
@@ -9,7 +9,7 @@ PHP | CSS | html | Javascript
 
 #Info (German - english below)
 ------------
-Verwendete Quelle: https://github.com/dirk1983/chatgpt
+Ursprünglicher Fork: https://github.com/dirk1983/chatgpt
 Das orginal-Script wurde lokalisiert, überprüft und angepasst.
 
 
