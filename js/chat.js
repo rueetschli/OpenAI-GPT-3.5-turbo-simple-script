@@ -1,4 +1,3 @@
-
 /*
 //Timer*/
 var contextarray = [];
