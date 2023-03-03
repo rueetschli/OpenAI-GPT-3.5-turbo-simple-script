@@ -6,6 +6,9 @@ $context = json_decode( $_POST['context'] ?: "[]" ) ?: [];
 $postData = [
     "model" => "gpt-3.5-turbo",
     "messages" => [],
+    "temperature" => 0.3,
+    "presence_penalty" => 0,
+    "frequency_penalty" => 1.2,
 ];
 if( !empty( $context ) ) {
     $context = array_slice( $context, -5 );
