@@ -1,6 +1,6 @@
 # chatgpt GPT 3.5 Turbo von OpenAI
 
-#Info
+#Info (German - english below)
 ------------
 Verwendete Quelle: https://github.com/dirk1983/chatgpt
 Das orginal-Script wurde lokalisiert, überprüft und angepasst.
@@ -25,6 +25,34 @@ Dies soll ein einfaches Script bleiben, welches ohne Framework einfach mit Copy-
 Damit sollen alle in der Lage sein, mithilfe ihres eigenen API-Key einen kostengünstigen Chatbot privat zu betreiben.
 
 
+
+#Screenshot
+------------
+![image](https://user-images.githubusercontent.com/8299018/222672442-035ac523-6d65-41b5-a843-1527637cb2bc.png)
+
+
+
+
+
+chatgpt GPT 3.5 Turbo from OpenAI
+#info
+------------
+Source used: https://github.com/dirk1983/chatgpt 
+The orginal script was localized, checked and adapted.
+
+#installation
+------------
+Install all files on a (protected) web directory. Register at https://platform.openai.com/ for an API key.
+
+Add this key in the file message.php in line 20. Replace "Your-OpenAI-API" and leave the "".
+
+If you want to log the chats, make sure that the file chat.txt has write permissions (644).
+
+Optionally, you can uncomment lines 3-23 in the file. This would protect the page in a very rudimentary way. Put your IP address in line 3. Choose a username and a password. Replace in line 14 at (($_SERVER['PHP_AUTH_USER']=="admin") the word admin with your chosen username and at ($_SERVER['PHP_AUTH_PW']=="admin") the password.
+
+#Sense and purpose
+------------
+This is meant to remain a simple script that can be used by anyone without a framework simply by copy-pasting. This is to enable everyone to privately run a low cost chatbot using their own API key.
 
 #Screenshot
 ------------
