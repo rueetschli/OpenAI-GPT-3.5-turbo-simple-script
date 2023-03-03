@@ -1,7 +1,11 @@
-#gpt-3.5-turbo Modell via API OpenAI.com
+#Script für gpt-3.5-turbo Modell 
+------------
+via API OpenAI.com
 Ein Chat, aufbaudend auf der API für chatgpt von chat.openai.com
 Sehr einfach gehalten.
 PHP | CSS | html | Javascript
+
+
 
 #Info (German - english below)
 ------------
