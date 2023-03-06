@@ -22,7 +22,7 @@ Füge diesen Key in der Datei message.php in der Zeile 23 ein. Ersetze dabei "De
 
 Falls du die Chats protokollieren möchtest, stelle sicher, dass die Datei chat.txt über schreibrechte (644) verfügt. 
 
-Optional kannst du in der Datei die Zeilen 3-23 Entkommentieren. Damit wäre die Seite sehr rudimentär Geschützt. 
+Optional kannst du in der Datei index.php die Zeilen 3-23 Entkommentieren. Damit wäre die Seite sehr rudimentär Geschützt. 
 Setze dazu deine IP-Adresse in der Zeile 3 ein. Wähle ein Benutzername und ein Passwort. Ersetze in Zeile 14 bei (($_SERVER['PHP_AUTH_USER']=="admin") das Wort admin mit deinem gewählten Benutzername und bei ($_SERVER['PHP_AUTH_PW']=="admin") das Passwort.
 
 
@@ -55,7 +55,7 @@ Add this key in the file message.php in line 23. Replace "Your-OpenAI-API" and l
 
 If you want to log the chats, make sure that the file chat.txt has write permissions (644).
 
-Optionally, you can uncomment lines 3-23 in the file. This would protect the page in a very rudimentary way. Put your IP address in line 3. Choose a username and a password. Replace in line 14 at (($_SERVER['PHP_AUTH_USER']=="admin") the word admin with your chosen username and at ($_SERVER['PHP_AUTH_PW']=="admin") the password.
+Optionally, you can uncomment lines 3-23 in the file index.php. This would protect the page in a very rudimentary way. Put your IP address in line 3. Choose a username and a password. Replace in line 14 at (($_SERVER['PHP_AUTH_USER']=="admin") the word admin with your chosen username and at ($_SERVER['PHP_AUTH_PW']=="admin") the password.
 
 #Sense and purpose
 ------------
