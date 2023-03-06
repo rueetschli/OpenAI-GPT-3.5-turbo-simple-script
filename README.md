@@ -18,7 +18,7 @@ Das orginal-Script wurde lokalisiert, überprüft und angepasst.
 Installiere alle Dateien auf einem (geschützten) Webverzeichnis.
 Registriere dich auf https://platform.openai.com/ für einen API-Key.
 
-Füge diesen Key in der Datei message.php in der Zeile 20 ein. Ersetze dabei "Deine-OpenAI-API" und lasse die "" stehen.
+Füge diesen Key in der Datei message.php in der Zeile 23 ein. Ersetze dabei "Deine-OpenAI-API" und lasse die "" stehen.
 
 Falls du die Chats protokollieren möchtest, stelle sicher, dass die Datei chat.txt über schreibrechte (644) verfügt. 
 
@@ -51,7 +51,7 @@ The orginal script was localized, checked and adapted.
 ------------
 Install all files on a (protected) web directory. Register at https://platform.openai.com/ for an API key.
 
-Add this key in the file message.php in line 20. Replace "Your-OpenAI-API" and leave the "".
+Add this key in the file message.php in line 23. Replace "Your-OpenAI-API" and leave the "".
 
 If you want to log the chats, make sure that the file chat.txt has write permissions (644).
 
