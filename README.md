@@ -1,8 +1,6 @@
 #Script für gpt-3.5-turbo Modell (GPT 4 ready) [English version below]
 ------------
 
-![image](https://user-images.githubusercontent.com/8299018/226865912-0f0db9e2-d604-4487-9c62-912130d71433.png)
-
 PHP | CSS | html | Javascript
 Ein Chat, aufbauend auf der API für chatgpt von chat.openai.com
 
@@ -11,7 +9,7 @@ Das Script besteht lediglich aus 4 Dateien (index.php, setsesion.php, stream.php
 
 Die php-Version ruft die neueste OpenAI-Schnittstelle und das Modell gpt-3.5-turbo für die Q&A-Demo auf, wobei die Kommunikation im Stream-Modus erfolgt und die Antwortgeschwindigkeit die der offiziellen Website übertrifft. Das Front-End verwendet JS's EventSource, unterstützt Markdown-Format Parsing, und der Code hat Farbgebung Verarbeitung. Die Benutzeroberfläche der Seite ist einfach und unterstützt kontextbezogene kontinuierliche Sitzungen. 
 
-Es wird kein Framework verwendet und alle PHP-Versionen werden unterstützt.
+*Es wird kein Framework verwendet und alle PHP-Versionen werden unterstützt.*
 
 Das Script kann mit einem eigenen API-Schlüssel betrieben werden (Ändern Sie einfach den API_KEY in der Datei stream.php), oder sie lassen die Endbenutzer einen API-Schlüssel eintragen (Kommentieren Sie dazu die nötigen Zeilen in der Datei index.php aus)
 
@@ -53,6 +51,9 @@ Setze dazu deine IP-Adresse in der Zeile 3 ein. Wähle ein Benutzername und ein 
 
 27. Februar 2023
 * Initialversion.
+
+
+![image](https://user-images.githubusercontent.com/8299018/226865912-0f0db9e2-d604-4487-9c62-912130d71433.png)
 
 
 
