@@ -1,8 +1,8 @@
-![image](https://user-images.githubusercontent.com/8299018/226865912-0f0db9e2-d604-4487-9c62-912130d71433.png)
-
-
 #Script für gpt-3.5-turbo Modell (GPT 4 ready) [English version below]
 ------------
+
+![image](https://user-images.githubusercontent.com/8299018/226865912-0f0db9e2-d604-4487-9c62-912130d71433.png)
+
 PHP | CSS | html | Javascript
 Ein Chat, aufbauend auf der API für chatgpt von chat.openai.com
 
