@@ -8,10 +8,7 @@ Das Script besteht lediglich aus 4 Dateien (index.php, setsesion.php, stream.php
 
 Die php-Version ruft die neueste OpenAI-Schnittstelle und das Modell gpt-3.5-turbo für die Q&A-Demo auf, wobei die Kommunikation im Stream-Modus erfolgt und die Antwortgeschwindigkeit die der offiziellen Website übertrifft. Das Front-End verwendet JS's EventSource, unterstützt Markdown-Format Parsing, und der Code hat Farbgebung Verarbeitung. Die Benutzeroberfläche der Seite ist einfach und unterstützt kontextbezogene kontinuierliche Sitzungen. 
 
-Es wird kein Framework verwendet und alle PHP-Versionen werden unterstützt. 
-
-, oder lassen Sie den Enduser einen eigenen API_KEY verwenden.
-
+Es wird kein Framework verwendet und alle PHP-Versionen werden unterstützt.
 
 Das Script kann mit einem eigenen API-Schlüssel betrieben werden (Ändern Sie einfach den API_KEY in der Datei stream.php), oder sie lassen die Endbenutzer einen API-Schlüssel eintragen (Kommentieren Sie dazu die nötigen Zeilen in der Datei index.php aus)
 
@@ -76,8 +73,6 @@ OpenAI-GPT-3.5-turbo-simple-script is probably the easiest way to install and ho
 The php version calls the latest OpenAI interface and the gpt-3.5-turbo model for the Q&A demo, communicating in stream mode and with response speed exceeding that of the official website. The front-end uses JS's EventSource, supports Markdown-format parsing, and the code has coloring processing. The site's user interface is simple and supports contextual continuous sessions.
 
 No framework is used and all PHP versions are supported.
-
-, or let the end user use a custom API_KEY.
 
 The script can be run with its own API key (just change the API_KEY in the stream.php file), or let the end-users enter an API key (comment out the necessary lines in the index.php file)
 
