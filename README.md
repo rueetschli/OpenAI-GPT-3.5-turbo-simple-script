@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/8299018/226865912-0f0db9e2-d604-4487-9c62-912130d71433.png)
+
+
 #Script für gpt-3.5-turbo Modell (GPT 4 ready) [English version below]
 ------------
 PHP | CSS | html | Javascript
@@ -54,16 +57,6 @@ Setze dazu deine IP-Adresse in der Zeile 3 ein. Wähle ein Benutzername und ein 
 
 
 
-
-#Screenshot
-------------
-![image](https://user-images.githubusercontent.com/8299018/226865912-0f0db9e2-d604-4487-9c62-912130d71433.png)
-
-
-
-
-
-
 #Script for gpt-3.5-turbo model (GPT 4 ready)
 ------------
 PHP | CSS | html | Javascript A chat, based on the API for chatgpt from chat.openai.com
@@ -107,7 +100,5 @@ March 2023
 February 2023
 * Initial version.
 
-#Screenshot
-------------
-![image](https://user-images.githubusercontent.com/8299018/226865912-0f0db9e2-d604-4487-9c62-912130d71433.png)
+
 
